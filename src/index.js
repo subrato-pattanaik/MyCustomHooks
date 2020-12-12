@@ -1,7 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import './index.css'
 // import TimeoutExample from './hooks/useTimeout/TimeoutExample'
-import Usage from './hooks/useTimeout/Usage'
+//import Usage from './hooks/useTimeout/Usage'
+import Usage from './hooks/useCounter/Usage'
 
 ReactDOM.render(<Usage />, document.getElementById('root'))
 
